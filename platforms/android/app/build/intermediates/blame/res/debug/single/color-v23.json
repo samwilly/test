@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\27804ee97b252273137cc9b9330cd36db1dcdaa5\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samro\\Documents\\NativeScript\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\samro\\.android\\build-cache\\318b52f850cefb6a1d2da7df8b4a96259422db56\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    }
+]
